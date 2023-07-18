@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Audible Sans Sm';
+    src: url('AudibleSans-Sm.eot');
+    src: local('Audible Sans Sm'), local('AudibleSans-Sm'),
+        url('AudibleSans-Sm.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Sm.woff2') format('woff2'),
+        url('AudibleSans-Sm.woff') format('woff'),
+        url('AudibleSans-Sm.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans Md';
+    src: url('AudibleSans-Md.eot');
+    src: local('Audible Sans Md'), local('AudibleSans-Md'),
+        url('AudibleSans-Md.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Md.woff2') format('woff2'),
+        url('AudibleSans-Md.woff') format('woff'),
+        url('AudibleSans-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans';
+    src: url('AudibleSans-BoldItalic.eot');
+    src: local('Audible Sans Bold Italic'), local('AudibleSans-BoldItalic'),
+        url('AudibleSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-BoldItalic.woff2') format('woff2'),
+        url('AudibleSans-BoldItalic.woff') format('woff'),
+        url('AudibleSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans Lt';
+    src: url('AudibleSans-Lt.eot');
+    src: local('Audible Sans Lt'), local('AudibleSans-Lt'),
+        url('AudibleSans-Lt.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Lt.woff2') format('woff2'),
+        url('AudibleSans-Lt.woff') format('woff'),
+        url('AudibleSans-Lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans';
+    src: url('AudibleSans-SemiboldItalic.eot');
+    src: local('Audible Sans Semibold Italic'), local('AudibleSans-SemiboldItalic'),
+        url('AudibleSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-SemiboldItalic.woff2') format('woff2'),
+        url('AudibleSans-SemiboldItalic.woff') format('woff'),
+        url('AudibleSans-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans Bd';
+    src: url('AudibleSans-Bd.eot');
+    src: local('Audible Sans Bd'), local('AudibleSans-Bd'),
+        url('AudibleSans-Bd.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Bd.woff2') format('woff2'),
+        url('AudibleSans-Bd.woff') format('woff'),
+        url('AudibleSans-Bd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans Rg';
+    src: url('AudibleSans-Rg.eot');
+    src: local('Audible Sans Rg'), local('AudibleSans-Rg'),
+        url('AudibleSans-Rg.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Rg.woff2') format('woff2'),
+        url('AudibleSans-Rg.woff') format('woff'),
+        url('AudibleSans-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans';
+    src: url('AudibleSans-Italic.eot');
+    src: local('Audible Sans Italic'), local('AudibleSans-Italic'),
+        url('AudibleSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-Italic.woff2') format('woff2'),
+        url('AudibleSans-Italic.woff') format('woff'),
+        url('AudibleSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audible Sans';
+    src: url('AudibleSans-LightItalic.eot');
+    src: local('Audible Sans Light Italic'), local('AudibleSans-LightItalic'),
+        url('AudibleSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('AudibleSans-LightItalic.woff2') format('woff2'),
+        url('AudibleSans-LightItalic.woff') format('woff'),
+        url('AudibleSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
