@@ -457,7 +457,7 @@ export default {
   name: "BookSummaryPage",
   data() {
     return {
-      OPENAI_API_KEY: "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",
+      OPENAI_API_KEY: "",
       messages: [],
 
       book: "",
@@ -515,11 +515,6 @@ export default {
     console.log(this.book);
 
     // add AWS credentials
-    // AWS.config.update({
-    //   accessKeyId: "AKIAT4R3YM75LS7J7QU5",
-    //   secretAccessKey: "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",
-    //   region: "us-east-1",
-    // });
 
     // Checks if user is logged in, if logged in, then it will add summary to users recent array
 
