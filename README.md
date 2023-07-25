@@ -2,6 +2,10 @@
 
 BookWise, summarize books using Artificial Intelligence
 
+# Official Page (Built out app)
+
+bookwiseai.com
+
 ## Install the dependencies
 ```bash
 yarn
