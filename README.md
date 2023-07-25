@@ -4,7 +4,7 @@ BookWise, summarize books using Artificial Intelligence
 
 # Official Page (Built out app)
 
-bookwiseai.com
+[bookwiseai.com](https://www.bookwiseai.com/#/)
 
 ## Install the dependencies
 ```bash
